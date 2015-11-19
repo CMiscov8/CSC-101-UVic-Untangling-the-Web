@@ -6,3 +6,4 @@ Please share your most helpful websites (an exercise in Edit/Commit/Pull Request
 :--------:| :------------- | :---------------- 
 Colleen | [CSS Links] (https://css-tricks.com/snippets/css/) | Lots of little snippets of code in here. Named CSS, but also has html, javascript, jquery, and a few others
 Colleen | [Simple HTML Guide] (http://www.simplehtmlguide.com/) | Cheatsheets of basic code for HTML and CSS. As a rank beginner, I've been using this a bit.
+Colleen | [Javascript Basics Video] (https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V) | by LearnCode.academy - It has über basic, bite sized pieces of video. There are 7 in the Javascript Basics series, defining and giving examples of variables, comparison operators, functions, alerts, arrays, loops, selections, and events. There are also lots of other videos for further learning on. 
